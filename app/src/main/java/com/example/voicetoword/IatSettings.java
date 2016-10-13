@@ -1,4 +1,4 @@
-package com.example.voicetoword;
+﻿package com.example.voicetoword;
 
 import android.os.Bundle;
 import android.preference.EditTextPreference;
@@ -7,7 +7,7 @@ import android.preference.Preference.OnPreferenceChangeListener;
 import android.preference.PreferenceActivity;
 import android.view.Window;
 
-//
+//   qw
 /**
  * 听写设置界面
  */
