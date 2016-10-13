@@ -7,7 +7,7 @@ import android.preference.Preference.OnPreferenceChangeListener;
 import android.preference.PreferenceActivity;
 import android.view.Window;
 
-
+//
 /**
  * 听写设置界面
  */
